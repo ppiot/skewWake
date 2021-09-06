@@ -27,7 +27,7 @@ xs=fileiN['xs']
 ys=fileiN['ys']
 zs=fileiN['zs']
 
-# these are the particle velocities (uxs, uys, uzs) following WARP convension u_i=c gg*bb_i or i in[x,y,z]
+# these are the particle velocities (uxs, uys, uzs) following WARP convension u_i=c gamma*beta_i for i in[x,y,z]
 uxs=fileiN['uxs']
 uys=fileiN['uys']
 uzs=fileiN['uzs']
