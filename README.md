@@ -15,7 +15,25 @@
 			      
 - diagGaussian_*_scrn.npz      : structured file with macroparticle 
                               distribution at the exit of the structure
-			      
+
+
+### To load the file and load structured variables
+```python
+import numpy as np
+
+fileiN=np.load('diagGaussian_yoffum_00.0_tiltdeg_00.0_20210904_142002_scrn.npz')
+# this is the particle positions (xs, ys, zs)
+xs=fileiN['xs']
+ys=fileiN['ys']
+zs=fileiN['zs']
+# this is the particle velocity (uxs, uys, uzs) following ARP convension u_i=c gamma*beta_i or i in[x,y,z]
+
+uxs=fileiN['uxs']
+uys=fileiN['uys']
+uzs=fileiN['uzs']
+```			      
+An example is provided in the readexple file which can be run with the argument:  
+python readexple.py diagGaussian_yoffum_00.0_tiltdeg_02.0_20210904_143344require 
 	     		      
 ### The two configurations run are
 
