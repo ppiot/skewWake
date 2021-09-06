@@ -1,9 +1,9 @@
-#warp simulation for skewWake
+# warp simulation for skewWake
 
 
 each case has the rootname: 
 
-__diagGaussian_*figure.png__ :  .png figure showing the (x,y) space 
+__ diagGaussian_*figure.png __ :  .png figure showing the (x,y) space 
                               before (top left), after (top right), 
 			      the structure and after a 0.51-m drift
 			      
