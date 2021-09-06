@@ -1,7 +1,7 @@
 # warp simulation for the skewWake experiment
 
 
-### Each case has the following file with * cooresponding to the rootname: 
+### Each case has the following file with * corresponding to the rootname: 
 
 - diagGaussian_*figure.png  :  .png figure showing the (x,y) space 
                               before (top left), after (top right), 
@@ -44,7 +44,7 @@ beam_weight= beam_Q / (beam_Np*echarge)
 - beam_emit_x = 200e-6  # in m.rad
 - beam_emit_y = 2e-6    # in m.rad
 
-#### beam size at the waist will backpopagates
+#### beam sizes at the waist located at strcuture center (w/o accounting for transverse wakes)
 - beam_xrms   = 2.0e-3 m 
 - beam_yrms   = 0.10e-3 m 
 - beam_zrms   = 640e-6 m 
