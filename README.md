@@ -73,7 +73,7 @@ _yoffum_00.0_tiltdeg_00.0_YYYYMMDD_HHMMSSfigure.png
 ![case](./diagGaussian_noUpperSlab_yoffum_00.0_tiltdeg_00.0_20210904_160729figure.png)
 ![case](./diagGaussian_yoffum_00.0_tiltdeg_00.0_20210904_142002figure.png)
 ![case](./diagGaussian_noUpperSlab_yoffum_00.0_tiltdeg_01.0_20210904_162156figure.png)
-![case](./diagGaussian_yoffum_00.0_tiltdeg_01.0_20210904_150921figure.png
+![case](./diagGaussian_yoffum_00.0_tiltdeg_01.0_20210904_150921figure.png)
 ![case](./diagGaussian_noUpperSlab_yoffum_00.0_tiltdeg_02.0_20210904_163601figure.png)
 ![case](./diagGaussian_yoffum_00.0_tiltdeg_02.0_20210904_143344figure.png)
 ![case](./diagGaussian_noUpperSlab_yoffum_00.0_tiltdeg_-1.0_20210904_165001figure.png)
