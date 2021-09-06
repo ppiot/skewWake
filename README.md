@@ -1,19 +1,19 @@
 # warp simulation for skewWake
 
 
-each case has the rootname: 
+## each case has the following file with * coorecponding to the rootname: 
 
-__ diagGaussian_*figure.png __ :  .png figure showing the (x,y) space 
+- diagGaussian_*figure.png  :  .png figure showing the (x,y) space 
                               before (top left), after (top right), 
 			      the structure and after a 0.51-m drift
 			      
-diagGaussian_*_init.npz      :  structured file with initial macroparticle 
+- diagGaussian_*_init.npz      :  structured file with initial macroparticle 
                               distribution			      
 
-diagGaussian_*_final.npz      : structured file with macroparticle 
+- diagGaussian_*_final.npz      : structured file with macroparticle 
                               distribution at the exit of the structure
 			      
-diagGaussian_*_scrn.npz      : structured file with macroparticle 
+- diagGaussian_*_scrn.npz      : structured file with macroparticle 
                               distribution at the exit of the structure
 			      
 	     		      
