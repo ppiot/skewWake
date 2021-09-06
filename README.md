@@ -51,3 +51,6 @@ beam_weight= beam_Q / (beam_Np*echarge)
 - beam_qbunch = 2e-9 C
 
 _yoffum_00.0_tiltdeg_00.0_YYYYMMDD_HHMMSSfigure.png
+
+
+![case](/assets/diagGaussian_noUpperSlab_yoffum_00.0_tiltdeg_00.0_20210904_160729figure.png)
